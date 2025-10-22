@@ -27,6 +27,7 @@ I love turning creative ideas into real-world mobile applications that are funct
   <img src="https://img.shields.io/badge/C++-1a1b26?style=for-the-badge&logo=cplusplus&logoColor=7dcfff" />
   <img src="https://img.shields.io/badge/C%23-1a1b26?style=for-the-badge&logo=csharp&logoColor=bb9af7" /> 
   <img src="https://img.shields.io/badge/Java-1a1b26?style=for-the-badge&logo=openjdk&logoColor=e0af68" /> 
+  <img src="https://img.shields.io/badge/SQLite-1a1b26?style=for-the-badge&logo=postgresql&logoColor=7aa2f7" />
   <img src="https://img.shields.io/badge/SQL-1a1b26?style=for-the-badge&logo=postgresql&logoColor=7aa2f7" />
   <img src="https://img.shields.io/badge/.NET-1a1b26?style=for-the-badge&logo=dotnet&logoColor=bb9af7" />
 </p> 
