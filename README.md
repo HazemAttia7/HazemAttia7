@@ -43,7 +43,6 @@ I love turning creative ideas into real-world mobile applications that are funct
 <!-- Tools / Platforms --> 
 <p align="center"> 
   <img src="https://img.shields.io/badge/Figma-1a1b26?style=for-the-badge&logo=figma&logoColor=f7768e" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-1a1b26?style=for-the-badge&logo=githubactions&logoColor=7aa2f7" />
   <img src="https://img.shields.io/badge/Postman-1a1b26?style=for-the-badge&logo=postman&logoColor=ff9e64" /> 
   <img src="https://img.shields.io/badge/SQL%20Server-1a1b26?style=for-the-badge&logo=databricks&logoColor=f7768e" />
   <img src="https://img.shields.io/badge/Clockify-1a1b26?style=for-the-badge&logo=clockify&logoColor=7dcfff" />
